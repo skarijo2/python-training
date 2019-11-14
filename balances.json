@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Michael",
+        "country": "United States",
+        "balances": {
+            "USD": 1000,
+            "EUR": 500,
+            "JPY": 4000
+        }
+    },
+    {
+        "id": 2,
+        "name": "Kait",
+        "country": "North Korea",
+        "balances": {
+            "USD": 10000,
+            "GBP": 101
+        }
+    },
+    {
+        "id": 3,
+        "name": "Brandon",
+        "country": "France",
+        "balances": {
+            "EUR": 5000
+        }
+    }
+]

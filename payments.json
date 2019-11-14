@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "transaction_type": "payment",
+        "sender_id": 1,
+        "recipient_id": 2,
+        "amount": 100,
+        "currency": "USD",
+        "transaction_datetime": "2019-11-13 06:15:42"
+    },
+    {
+        "id": 2,
+        "transaction_type": "payment",
+        "sender_id": 3,
+        "recipient_id": 1,
+        "amount": 500,
+        "currency": "EUR",
+        "transaction_datetime": "2019-11-11 09:15:00"
+    },
+    {
+        "id": 3,
+        "transaction_type": "payment",
+        "sender_id": 1,
+        "recipient_id": 4,
+        "amount": 3000,
+        "currency": "JPY",
+        "transaction_datetime": "2019-11-12 21:15:42"
+    },
+    {
+        "id": 4,
+        "transaction_type": "cancellation",
+        "transaction": 2,
+        "transaction_datetime": "2019-11-13 06:45:42"
+    },
+    {
+        "id": 5,
+        "transaction_type": "payment",
+        "sender_id": 1,
+        "recipient_id": 3,
+        "amount": 100,
+        "currency": "USD",
+        "transaction_datetime": "2019-11-16 06:15:42"
+    },
+    {
+        "id": 6,
+        "transaction_type": "payment",
+        "sender_id": 1,
+        "recipient_id": 3,
+        "amount": 100,
+        "currency": "USD",
+        "transaction_datetime": "2019-11-16 06:15:42"
+    },
+    {
+        "id": 7,
+        "transaction_type": "payment",
+        "sender_id": 1,
+        "recipient_id": 3,
+        "amount": 100,
+        "currency": "USD",
+        "transaction_datetime": "2019-11-16 06:15:42"
+    },
+    {
+        "id": 8,
+        "transaction_type": "payment",
+        "sender_id": 2,
+        "recipient_id": 4,
+        "amount": 100,
+        "currency": "GBP",
+        "transaction_datetime": "2019-11-16 06:15:42"
+    }
+]

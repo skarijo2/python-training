@@ -1,0 +1,14 @@
+{
+    "JPY": {
+        "flat": 5,
+        "who": "sender"
+    },
+    "GBP": {
+        "pct": 0.01,
+        "who": "recipient"
+    },
+    "EUR": {
+        "pct": 0.02,
+        "who": "recipient"
+    }
+}
